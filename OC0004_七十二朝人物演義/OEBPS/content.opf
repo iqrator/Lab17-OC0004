@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>七十二朝人物演義</dc:title>
+    <dc:creator>佚名</dc:creator>
+    <dc:rights>智域國際</dc:rights>
+    <dc:publisher>智域國際</dc:publisher>
+    <dc:language>zh-TW</dc:language>
+    <dc:identifier id="uuid_id">open-lit.com</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2021-09-02T01:48:08Z</meta>
+  </metadata>
+<manifest>
+  <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  <item id="style" href="stylesheet.css" media-type="text/css" />
+<item id="cover" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+  <item id="cover-image" href="cover.jpg" media-type="image/jpeg"/>
+  <item id="P0" href="0.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P1" href="1.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P2" href="2.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P3" href="3.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P4" href="4.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P5" href="5.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P6" href="6.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P7" href="7.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P8" href="8.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P9" href="9.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P10" href="10.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P11" href="11.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P12" href="12.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P13" href="13.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P14" href="14.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P15" href="15.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P16" href="16.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P17" href="17.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P18" href="18.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P19" href="19.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P20" href="20.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P21" href="21.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P22" href="22.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P23" href="23.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P24" href="24.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P25" href="25.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P26" href="26.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P27" href="27.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P28" href="28.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P29" href="29.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P30" href="30.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P31" href="31.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P32" href="32.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P33" href="33.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P34" href="34.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P35" href="35.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P36" href="36.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P37" href="37.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P38" href="38.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P39" href="39.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P40" href="40.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P41" href="41.xhtml" media-type="application/xhtml+xml"/>
+  <item id="P42" href="42.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+<spine page-progression-direction="rtl">
+  <itemref idref="cover"/>
+  <itemref idref="P0" />
+  <itemref idref="P1" />
+  <itemref idref="P2" />
+  <itemref idref="P3" />
+  <itemref idref="P4" />
+  <itemref idref="P5" />
+  <itemref idref="P6" />
+  <itemref idref="P7" />
+  <itemref idref="P8" />
+  <itemref idref="P9" />
+  <itemref idref="P10" />
+  <itemref idref="P11" />
+  <itemref idref="P12" />
+  <itemref idref="P13" />
+  <itemref idref="P14" />
+  <itemref idref="P15" />
+  <itemref idref="P16" />
+  <itemref idref="P17" />
+  <itemref idref="P18" />
+  <itemref idref="P19" />
+  <itemref idref="P20" />
+  <itemref idref="P21" />
+  <itemref idref="P22" />
+  <itemref idref="P23" />
+  <itemref idref="P24" />
+  <itemref idref="P25" />
+  <itemref idref="P26" />
+  <itemref idref="P27" />
+  <itemref idref="P28" />
+  <itemref idref="P29" />
+  <itemref idref="P30" />
+  <itemref idref="P31" />
+  <itemref idref="P32" />
+  <itemref idref="P33" />
+  <itemref idref="P34" />
+  <itemref idref="P35" />
+  <itemref idref="P36" />
+  <itemref idref="P37" />
+  <itemref idref="P38" />
+  <itemref idref="P39" />
+  <itemref idref="P40" />
+  <itemref idref="P41" />
+  <itemref idref="P42" />
+</spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>
